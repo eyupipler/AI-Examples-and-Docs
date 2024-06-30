@@ -1,4 +1,4 @@
-# Artifical Intelligence Course and Documents For Beginners
+# Artificial Intelligence Course and Documents For Beginners
 
 ## İçeriğinde Neler Var?
 
